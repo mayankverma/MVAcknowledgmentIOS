@@ -11,7 +11,7 @@ To create the Acknowledgment file
 
 Adding to IOS Setting bundle
 1) Open Settings Bundle in IOS
-2) Drag and drop, "Acl.plist" under settings.bundle
+2) Drag and drop, "Ack.plist" under settings.bundle
 3) Right click on Root.plist and open as source.
 Paste following code at bottom of file just before inside valid section
  <dict>
