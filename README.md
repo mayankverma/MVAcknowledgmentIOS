@@ -3,7 +3,9 @@
 To create the Acknowledgment file
 
 1) Download script.
+
 2) Change permission to 755 (chmod 755 MVAckGenerator.sh)
+
 3) Place all license files in same folder.
 4) Name each file as "PackageName.license"
 5) Run the script ./MVAckGenerator.sh
